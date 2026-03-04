@@ -12,13 +12,13 @@ A drillthrough detail page enables deeper analysis of product category performan
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](images/main-dashboard.png)
+![Main Dashboard](images/velocity%20ridge%20main.png)
 
 ### Product Category Detail (Drillthrough Page)
-![Detail Page](images/detail-page.png)
+![Detail Page](images/velocity%20detail%20page.png)
 
 ### Product Performance Matrix
-![Matrix View](images/matrix-view.png)
+![Matrix View](images/velocity%20ridge%20rows.png)
 
 ---
 
