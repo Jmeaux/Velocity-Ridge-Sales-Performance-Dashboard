@@ -7,6 +7,8 @@ The dashboard provides an executive-level view of business performance through k
 
 A drillthrough detail page enables deeper analysis of product category performance, showing revenue trends and subcategory-level profitability.
 
+The report also includes an **interactive Dashboard Guide page** that explains how to use the dashboard and interpret the metrics.
+
 ---
 
 ## Dashboard Preview
@@ -19,6 +21,11 @@ A drillthrough detail page enables deeper analysis of product category performan
 
 ### Product Performance Matrix
 ![Matrix View](images/velocity%20ridge%20rows.png)
+
+### Dashboard Guide / Info Page
+![Dashboard Guide](images/infopage.png)
+
+The **Dashboard Guide** page provides an interactive explanation of the report using navigation buttons that allow users to switch between topics such as the dashboard purpose, metrics definitions, filter usage, and data source information.
 
 ---
 
@@ -38,6 +45,22 @@ A drillthrough detail page enables deeper analysis of product category performan
 - Interactive slicers for year, territory, and product category
 - Drillthrough page for detailed subcategory analysis
 - Dynamic title based on selected product category
+- Interactive **Dashboard Guide page** with navigation buttons and bookmarks
+
+---
+
+## Dashboard Guide (Info Page)
+
+The report includes a dedicated **Dashboard Guide page** to help users understand how to interact with the dashboard.
+
+This page contains navigation buttons that allow users to switch between explanations for:
+
+- **Purpose** – Overview of what the dashboard analyzes
+- **Metrics** – Definitions of key performance indicators
+- **Filters** – Instructions for using slicers and filters
+- **Data Source** – Information about the dataset used
+
+Bookmarks and buttons are used to dynamically change the displayed content, creating an interactive help system directly within the report.
 
 ---
 
@@ -57,6 +80,7 @@ A drillthrough detail page enables deeper analysis of product category performan
 - Interactive dashboard design
 - Drillthrough navigation
 - Conditional formatting for insights
+- Bookmark navigation and interactive UI elements
 - Business performance analysis
 
 ---
